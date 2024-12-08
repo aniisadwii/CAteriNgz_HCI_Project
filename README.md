@@ -10,6 +10,6 @@ The website simulates a catering service named **CAteriNgz**, featuring:
 
 
 ## Features
-- **HTML5, CSS3, JavaScript** for structure, styling, and interactivity.  
+- **HTML, CSS, JavaScript** for structure, styling, and interactivity.  
 - **Responsive Design** for desktop and mobile.  
 - **Custom Form Validations** without regular expressions.
